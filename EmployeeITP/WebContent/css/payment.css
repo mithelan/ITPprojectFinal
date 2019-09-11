@@ -32,6 +32,11 @@ body {
   left:1200px;
   top:327px;
 }
+.incomecost{
+	 position:absolute;
+  left:455px;
+  top:10%;
+  background:white;
 }
 .footer{
 	  width: 761px;

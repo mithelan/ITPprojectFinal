@@ -61,8 +61,10 @@ ResultSet resultSet = null;
   
   </ul>
   
-  
-  
+<div class="incomecost">
+
+
+</div>
  	
 
 
@@ -86,7 +88,7 @@ ResultSet resultSet = null;
   <div class="card-body">
     <h5 class="card-title">Check the Income </h5>
     <p class="card-text">Checking the income from the appointments</p>
-    <a href="Income.jsp" class="btn btn-primary">Check the income</a>
+    <a href="TotalIncome.jsp" class="btn btn-primary">Check the income</a>
   </div>
 </div>
 </div>
