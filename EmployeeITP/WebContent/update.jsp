@@ -123,7 +123,7 @@ body {
   <a class="active" href="#home">UPDATE EMPLOYEE DETAILS</a>
 
   <div class="search-container">
-    <form method="POST" action="UpdateEmployee">
+    <form method="POST" action="updateemployee.jsp">
      <input type="text" id="employeeID" name="EID" placeholder="Enter EID.." >
       <button type="submit">UPDATE</button>
     </form>
